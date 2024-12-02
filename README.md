@@ -32,5 +32,5 @@ Cloud Computing
 
 Email :- info.jasmitdev@gmail.com
 
-Portfolio :- https://jasmitsingh.netlify.app
+
 
