@@ -1,38 +1,41 @@
+# Hi there, I'm Jasmit Singh 👋
 
+### Aspiring Software Developer | Enthusiastic Learner | Web Developer
 
+---
 
-Hello, I'm Jasmit Singh 👋
+[![LinkedIn Badge](https://img.shields.io/badge/-Jasmit%20Singh-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Email Badge](https://img.shields.io/badge/-Email-c71610?style=flat-square&logo=gmail&logoColor=white)](mailto:info.jasmitdev@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0077B5?style=flat-square&logo=vercel&logoColor=white)](https://protfolio-sigma-green.vercel.app)
 
-Aspiring Software Developer | Enthusiastic Learner | Web Developer
+---
 
-I am a passionate and dedicated aspiring software developer with a strong foundation in C++,Python and C. I recently completed my 
-BCA from Guru Gobind Singh Universtiy. I am keen on learning new technologies and contributing to open-source projects.
+I'm a passionate and dedicated **aspiring software developer** with a solid foundation in **C++, Python, and C**. Having recently completed my BCA from Guru Gobind Singh University, I'm driven to continuously expand my skillset, delve into emerging technologies, and actively contribute to the open-source community.
 
+---
 
-🌱 Currently Learning
+### 🌱 My Learning Journey
 
-Full Stack Development 
+* **Full Stack Development**: Building end-to-end applications with modern frameworks.
+* **Open-source Contribution Best Practices**: Embracing collaborative development and community standards.
+* **Version Control with Git**: Mastering efficient code management and team collaboration.
 
-Open-source contribution best practices
+---
 
-Version control with Git
+### 💡 Areas of Interest
 
+* **Web Development**: Creating engaging and user-friendly web experiences.
+* **Artificial Intelligence**: Exploring the potential of AI to solve complex problems.
+* **Cloud Computing**: Leveraging cloud platforms for scalable and resilient solutions.
 
-💡 Interests
+---
 
-Web Development
+### 📫 Let's Connect!
 
-Artificial Intelligence
+I'm always eager to connect with fellow developers, collaborate on exciting projects, or just exchange ideas. Don't hesitate to reach out!
 
-Cloud Computing
+* **LinkedIn**: [Jasmit Singh](https://www.linkedin.com/in/your-linkedin-profile)
+* **Email**: info.jasmitdev@gmail.com
+* **Portfolio**: [My Portfolio](https://protfolio-sigma-green.vercel.app)
 
-📫 How to reach me
-
- **LinkedIn** :- Jasmit singh
-
-**Email** :- info.jasmitdev@gmail.com
- 
-**ProtFolio website** :-https://protfolio-sigma-green.vercel.app
-
-
-
+---
