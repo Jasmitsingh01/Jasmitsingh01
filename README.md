@@ -10,7 +10,7 @@
 
 ---
 
-I'm a passionate and dedicated **aspiring software developer** with a solid foundation in **C++, Python, and C**. Having recently completed my BCA from Guru Gobind Singh University, I'm driven to continuously expand my skillset, delve into emerging technologies, and actively contribute to the open-source community.
+I'm a passionate and dedicated **aspiring software developer** with a solid foundation in **C++, Python,Javascript , Typescript and C**. Having recently completed my BCA from Guru Gobind Singh University, I'm driven to continuously expand my skillset, delve into emerging technologies, and actively contribute to the open-source community.
 
 ---
 
