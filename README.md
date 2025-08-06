@@ -1,6 +1,6 @@
 # Hi there, I'm Jasmit Singh 👋
 
-### Aspiring Software Developer | Enthusiastic Learner | Web Developer
+### Aspiring Software Developer | Enthusiastic Learner | Full stack Developer
 
 ---
 
